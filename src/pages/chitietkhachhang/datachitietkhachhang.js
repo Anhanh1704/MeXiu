@@ -97,3 +97,5 @@ const products = [
     },
     // Thêm dữ liệu mẫu tại đây
   ];
+
+  export default products;
